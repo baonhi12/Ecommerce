@@ -1,0 +1,67 @@
+:root {
+  --color-212529: #212529;
+  --color-d0bfff: #D0BFFF;
+  --color-47ad24: #47AD24;
+  --color-c70039: #C70039;
+  --color-54B435: #54B435;
+  --color-828599: #828599;
+  --color-777777: #777777;
+  --color-3d464d: #3D464D;
+  --color-c3d4da: #C3D4DA;
+}
+
+.green {
+  color: var(--color-54B435);
+  font-size: 14px;
+  font-weight: 500;
+  font-family: "Roboto", sans-serif !important;
+}
+
+.red {
+  color: var(--color-c70039);
+  font-size: 14px;
+  font-weight: 500;
+  font-family: "Roboto", sans-serif !important;
+}
+
+.quill {
+  background-color: white;
+}
+
+.ql-toolbar.ql-snow {
+  border-top-left-radius: 8px;
+  border-top-right-radius: 8px;
+}
+
+.ql-container.ql-snow {
+  border-bottom-left-radius: 8px;
+  border-bottom-right-radius: 8px;
+}
+
+.form-control {
+  box-shadow: none;
+  border-color: var(--color-c3d4da);
+}
+
+.title {
+  font-size: 28px;
+  font-weight: 600;
+  line-height: 22px;
+  font-family: "Roboto", sans-serif !important;
+  color: var(--color-3d464d);
+}
+
+.sub-title{
+  font-size: 24px;
+  font-weight: 600;
+  font-family: "Roboto", sans-serif !important;
+  color: var(--color-3d464d);
+}
+
+.desc {
+  font-size: 14px;
+  font-weight: 500;
+  font-family: "Roboto" !important;
+  color: var(--color-828599);
+}
+
